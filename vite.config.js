@@ -5,7 +5,7 @@ import { resolve } from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/اسم-الريبو/",  // <-- هنا لازم تحط اسم الريبو بتاعك
+  base: "/web0x1/",  // <-- اسم الريبو هنا
   server: {
     host: "::",
     port: "8080",
